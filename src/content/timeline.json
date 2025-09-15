@@ -1,0 +1,25 @@
+{
+  "data": {
+    "2018": {
+      "title": "Got into Yeditepe University",
+      "content": "After a year of hardwork and suffering, I've finally got the chance to become a Computer Engineer at Yeditepe University!"
+    },
+    "2021": {
+      "title": "First Work Experience as a Software Engineer at Amadeus",
+      "content": "At the 3rd year of university, I got hired as an intern at Amadeus as a Software Engineer."
+    },
+    "2021-2023": {
+      "title": "From Intern to Full-Time",
+      "content": "While continuing my study at Yeditepe, I also kept working at Amadeus. After my internship ended, I became a Full-Time Engineer."
+    },
+    "2023": {
+      "title": "Graduation and Starting to Work as a Software Engineer at Betsson",
+      "content": "Graduated from Yeditepe at 2023. Excited to finally get my degree, but of course a little heart-broken to say goodbye to college.",
+      "content2": "Also, after my graduation I moved to Malta and started to work as a Software Engineer at Betsson."
+    },
+    "2024": {
+      "title": "Leaving Malta and Becoming a Software Engineer at Sqills",
+      "content": "After a year, I moved out of Malta, got hired by Sqills and started my work there as a Software Engineer."
+    }
+  }
+}

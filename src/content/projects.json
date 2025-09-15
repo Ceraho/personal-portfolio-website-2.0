@@ -1,0 +1,59 @@
+{
+  "data": {
+    "projects": [
+      {
+        "title": "Personal Portfolio Website 2.0",
+        "imageUrl": "/portfolio2.png",
+        "projectUrl": "https://www.ceraho.dev",
+        "description": "This very page you are seeing right now is the 2.0 :)",
+        "description2": "After using the Website 1.0 for more than a year as my personal portfolio website, it was time to build a new one with better looks and functionality. In traditional personal portfolio manner, the content is kept straight-forward, but the code now inhibits best practices and the design is vastly improved thanks to TailwindCSS, ShadCN and Aceternity UI",
+        "technologies": ["TypeScript", "NextJS", "ShadCN", "Aceternity UI"]
+      },
+      {
+        "title": "[Internal/Sqills] Event-Driven E2E Testing for AWS EventBridge Events",
+        "imageUrl": "/eventbridge.png",
+        "description": "The aim of this project is to design a tool to fully end-to-end test EventBridge-based architectures. It enables developers to simulate, validate, and monitor event flows, ensuring reliability and correctness across distributed AWS services. By the end of this project, the goal is to fully integrate this testing tool with an existing Cucumber automation framework, providing seamless usage within Cucumber.",
+        "technologies": ["Java", "JUnit", "REST Assured", "Cucumber"]
+      },
+      {
+        "title": "TalentGate",
+        "imageUrl": "/talentgate.png",
+        "projectUrl": "https://github.com/TalentGate/talentgate-web-v2",
+        "description": "TalentGate is a passion project, designed by me and a good friend, aiming to be an all-in-one automated recruitment solution. It provides an intuitive pipeline for visualizing applicant status, quick job post creation, and seamless publishing to popular platforms. Companies get a careers page and job application pages generated automatically. The platform is designed to be easy to use, affordable, and reliable for teams of any size, streamlining the entire hiring process from posting to management.",
+        "technologies": [
+          "TypeScript",
+          "NextJS",
+          "Python",
+          "FastAPI",
+          "PostgresSQL"
+        ]
+      },
+      {
+        "title": "Disney+ Clone",
+        "imageUrl": "/disneyplusclone.png",
+        "projectUrl": "https://github.com/Ceraho/disney-plus-clone",
+        "description": "The goal of this project was to demosntrate more intermediate to advanced skills in frontend development and software engineering in general. Used best practices in React/NextJS development, demonstrated intermediate concepts of frontend development, use of SSR, styling with TailwindCSS and integration of MoviesDB APIs for a realistic clone website. Main tech stack involved NextJS and TailwindCSS.",
+        "technologies": ["TypeScript", "NextJS", "TailwindCSS"]
+      },
+      {
+        "title": "Personal Portfolio Website 1.0",
+        "imageUrl": "/portfolio1.png",
+        "projectUrl": "https://github.com/Ceraho/portfolio-page-v1",
+        "description": "My first attempt on building a frontend website. As someone that had always appreciated the idea of having youw own portfolio website, I wanted to try my new knowledge in developing frontend applications with making one. The tech stack only included a single framework: NextJS 13. The website was extremely simple and straight-forward. It was a decent start on practising frontend development knowledge.",
+        "technologies": ["TypeScript", "NextJS"]
+      },
+      {
+        "title": "[Internal/Betsson] Playwright-based UI Test Automation Platform",
+        "imageUrl": "/playwright.png",
+        "description": "This project delivers a scalable UI test automation platform built with Playwright. It enables teams to write reliable, maintainable, and fast end-to-end tests for web apps. The platform integrates Playwright and Selenium for cross-browser testing, parallel execution, and rich reporting. Its goal is to simplify UI automation, reduce flaky tests, and make quality assurance effortless for development teams.",
+        "technologies": ["TypeScript", "Playwright", "Selenium"]
+      },
+      {
+        "title": "[Internal/Amadeus] Robot Framework-based API Test Automation Tool",
+        "imageUrl": "/robotframework.png",
+        "description": "This project builds a flexible API test automation tool using Robot Framework. It helps teams validate APIs for reliability and consistency, supporting advanced scenarios and reusable components. With PyTest and Cucumber integration, the tool offers detailed reporting and efficient automation, making backend system validation straightforward and robust for development teams.",
+        "technologies": ["Python", "Robot Framework", "PyTest", "Cucumber"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "p1": {
+      "title": "About Me paragraph 1",
+      "content": "I'm a Computer Engineer with a passion for building scalable and efficient applications. With experience in full-stack development, software testing and DevOps, I create seamless user experiences and robust server-side solutions. In my free time, I love to explore new technologies, and build digital solutions for both modern and traditional problems."
+    },
+    "p2": {
+      "title": "About Me paragraph 2",
+      "content": "Throughout the years, I've got to experience quiet a few practices and learn concepts that got me to where I am. Here are some of the skills and concepts I've picked up so far:"
+    },
+    "skillsAndTraits": {
+      "title": "Skills and Traits",
+      "list": [
+        "Build beautiful frontend applications with NextJS and React",
+        "Build robust, scalable and performant backend applications with FastAPI, Spring Boot and Quarkus",
+        "Automate UI testing with Selenium and Playwright, test APIs with REST Assured and Postman",
+        "Containerize complex web applications with Docker, deploy and scale them with Kubernetes",
+        "Create CI/CD pipelines with GitHub Actions and Jenkins."
+      ]
+    },
+    "imageUrl": "/my-pic.jpeg"
+  }
+}
