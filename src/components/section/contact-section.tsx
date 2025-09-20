@@ -43,7 +43,7 @@ function ContactSection() {
           </Button>
 
           <Button size={"lg"} variant={"outline"} asChild>
-            <a>
+            <a href={data.cvUrl} download>
               <Download />
               <span>Download my CV</span>
             </a>
